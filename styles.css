@@ -451,6 +451,11 @@ p {
   font-family: Helvetica, sans-serif;
   font-weight: 700;
   padding: 4px 0px;
+  cursor: pointer;
+}
+
+.subscription-item:hover {
+  text-decoration: underline solid 1px black;
 }
 
 .subscription-icon {
@@ -463,6 +468,11 @@ p {
   font-family: "Arial Narrow", Arial, Helvetica, sans-serif;
   font-weight: 100;
   line-height: 24px;
+  cursor: pointer;
+}
+
+.subscription-column-spans:hover {
+  text-decoration: underline solid 1px black;
 }
 
 /* footer */
