@@ -10,6 +10,7 @@
  <li>The accuracy of the UI re-creaction</li>
  <li>Mouse hover events</li>
  <li>Use of grid display</li>
+</ul>
 
 <h3> Things I need guidance with: </h3>
 
