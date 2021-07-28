@@ -1,7 +1,7 @@
 # nyt_article
 
 - CSS project for The Odin Project HTML/CSS curriculum
-- Re-create a NTY article
+- Re-create a <a href="https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0" target="_blank" rel="noopener noreferrer">NTY article</a>
 - Utilize new display knowledge of flexbox and grid
 
 <h3> Things I'm proud of: </h3>
