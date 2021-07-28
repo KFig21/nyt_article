@@ -1,5 +1,6 @@
 # nyt_article
 
+- <a href="https://kfig21.github.io/nyt_article/" target="_blank" rel="noopener noreferrer">View the project here!</a>
 - CSS project for The Odin Project HTML/CSS curriculum
 - Re-create a <a href="https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0" target="_blank" rel="noopener noreferrer">NTY article</a>
 - Utilize new display knowledge of flexbox and grid
